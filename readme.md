@@ -1,13 +1,3 @@
-
-Before you begin, ensure you have the following installed:
-
-- [Docker](https://www.docker.com/get-started) and [Docker Compose](https://docs.docker.com/compose/install/) (for Docker setup)
-- [Node.js](https://nodejs.org/) (v16 or later)
-- [Python](https://www.python.org/) (v3.8 or later)
-- [PostgreSQL](https://www.postgresql.org/) (if running without Docker)
-- [Git](https://git-scm.com/)
-
-
 ## Development Setup
 
 2. **Create environment file**
